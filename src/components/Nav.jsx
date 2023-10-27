@@ -4,8 +4,8 @@ import { navLinks } from '../constants'
 import { useState } from 'react'
 
 const Nav = () => {
-    const [hamburgerMenu, setHamburgerMenu] = useState("dark as fuck")
-    const [activeNav, setActiveNav] = useState(false)
+    // const [hamburgerMenu, setHamburgerMenu] = useState("dark as fuck")
+    // const [activeNav, setActiveNav] = useState(false)
 
     return (
         <header className='padding-x py-8 absolute z-10 w-full'>
