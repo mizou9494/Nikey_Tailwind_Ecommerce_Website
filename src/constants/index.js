@@ -82,7 +82,13 @@ export const reviews = [
         customerName: 'Lota Mongeskar',
         rating: 4.5,
         feedback: "The product not only met but exceeded my expectations. I'll definitely be a returning customer!"
-    }
+    },
+    // {
+    //     imgURL: customer3,
+    //     customerName: 'Bouam Omar',
+    //     rating: 4.5,
+    //     feedback: "My experience with this platform was exceptional giving that i bought from them multiple times and the product are well made and better than i was expecting!"
+    // },
 ];
 
 
